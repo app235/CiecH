@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>시스템 사업부 1팀</item>
+        <item>시스템 사업부 2팀</item>
+        <item>디자인 1팀</item>
+        <item>기술연구소</item>
+    </string-array>
+</resources>
